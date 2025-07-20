@@ -4,7 +4,7 @@ Welcome! I'm Nick Sun, currently transitioning from a mechanical engineering bac
 
 ---
 
-##  Forum Website – Full-Stack Discussion Platform
+##  Forum Website – Full-Stack Discussion Platform (Personal Project)
 
 Tech stack: Python (Flask) | MySQL | HTML/CSS | JavaScript
 A lightweight forum website built as a full-stack project, enabling user registration, post creation, and threaded discussions.
@@ -17,7 +17,7 @@ A lightweight forum website built as a full-stack project, enabling user registr
 
 ---
 
-##  Group Project – Voting Platform (Full Stack Web App)
+##  Full Stack Web App – Voting Platform (Group Project)
 
 **Tech stack:** React | Flask | PostgreSQL  
 This is a team-based web application built as part of our university coursework. It allows users to create, share, and participate in voting polls. My key contributions include:
