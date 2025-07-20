@@ -4,6 +4,19 @@ Welcome! I'm Nick Sun, currently transitioning from a mechanical engineering bac
 
 ---
 
+##  Forum Website – Full-Stack Discussion Platform
+
+Tech stack: Python (Flask) | MySQL | HTML/CSS | JavaScript
+A lightweight forum website built as a full-stack project, enabling user registration, post creation, and threaded discussions.
+
+- Built RESTful backend using Flask and MySQL for user, post, and comment management
+- Designed responsive frontend with clean layout and dynamic form handling
+- Implemented login system, input validation, image uploading and error handling
+
+>  *Created independently as part of a university software development course.*
+
+---
+
 ##  Group Project – Voting Platform (Full Stack Web App)
 
 **Tech stack:** React | Flask | PostgreSQL  
@@ -38,19 +51,6 @@ A Chrome extension that captures voice input and performs commands without butto
 - Future goal: configurable commands and context-aware actions
 
 >  *Ongoing improvements planned.*
-
----
-
-##  Forum Website – Full-Stack Discussion Platform
-
-Tech stack: Python (Flask) | MySQL | HTML/CSS | JavaScript
-A lightweight forum website built as a full-stack project, enabling user registration, post creation, and threaded discussions.
-
-- Built RESTful backend using Flask and MySQL for user, post, and comment management
-- Designed responsive frontend with clean layout and dynamic form handling
-- Implemented login system, input validation, image uploading and error handling
-
->  *Created independently as part of a university software development course.*
 
 ---
 
